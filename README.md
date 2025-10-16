@@ -43,7 +43,7 @@ This project is set up for developing on Base Sepolia testnet using Hardhat and 
 
 ### Base Sepolia Testnet
 - **Chain ID:** 84532
-- **RPC URL:** https://base-sepolia.g.alchemy.com/v2/5hOepzRPhdWVSDJq66RMKUchn5rgocBs
+- **RPC URL:** https://base-sepolia.g.alchemy.com/v2/YOUR_ALCHEMY_API_KEY
 - **Explorer:** https://sepolia.basescan.org
 - **Faucet:** https://www.coinbase.com/faucets/base-ethereum-sepolia-faucet
 
