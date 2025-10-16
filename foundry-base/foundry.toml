@@ -1,0 +1,15 @@
+[profile.default]
+src = "src"
+out = "out"
+libs = ["lib"]
+
+# RPC endpoints
+[rpc_endpoints]
+base_sepolia = "${RPC_URL}"
+
+# Environment variables
+[env]
+RPC_URL = { env = "RPC_URL" }
+PRIVATE_KEY = { env = "PRIVATE_KEY" }
+
+# See more config options https://github.com/foundry-rs/foundry/blob/master/crates/config/README.md#all-options
